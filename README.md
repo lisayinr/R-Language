@@ -18,13 +18,15 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Geeksforgeeks.org](https://www.geeksforgeeks.org/basic-syntax-in-r-programming/)
 - [Geeksforgeeks.org](https://www.geeksforgeeks.org/r-keywords/)
 - [Geeksforgeeks.org](https://www.geeksforgeeks.org/r-data-types/)
 - [Geeksforgeeks.org](https://www.geeksforgeeks.org/taking-input-from-user-in-r-programming/)
+- [Geeksforgeeks.org](https://www.geeksforgeeks.org/data-visualization-with-r-and-ggplot2/)
 - [Youtube.com](https://www.youtube.com/watch?v=rKPfssR66GM&ab_channel=SusanB.)
+- [Libraryguides.mcgill.ca](https://libraryguides.mcgill.ca/c.php?g=699776&p=4968544)
+- [Ggplot2-book.org](https://ggplot2-book.org/themes#sec-saving)
+- [Educative.io](https://www.educative.io/courses/learn-r/difference-between-print-and-cat)
 
 # Future Work
 

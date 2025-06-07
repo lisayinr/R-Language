@@ -93,8 +93,8 @@ print(summary(model))
 plot <- ggplot(data, aes(x = Advertising, y = Sales)) +
   geom_point(color = "blue", size = 3) +
   geom_smooth(method = "lm", se = FALSE, color =  "red") +
-  labs(title =  "Advertising vs Sales", 
-  x = "Advertising Budget", 
+  labs(title =  "Advertising vs Sales",
+  x = "Advertising Budget",
   y = "Sales")
 
 
