@@ -1,12 +1,10 @@
 # Overview
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 To grow as a software engineer, I wanted to expand my understanding of statistical programming by learning the R language. This software reads a CSV file that contains data of advertising spending and the outcome in sales. The program then builds a linear regression model and creates a graph showing the relationship between advertising and sales using ggplot2.
 
 The purpose for writing this software is to have a solid foundation of using R's syntax and data structures by applying it to a real world situation. It demonstrates how the R language works with multiple datatypes (numeric, integer, character, logical, and list), dataframes, and loops.
 
-Video Demonstration of how my software works: [Software Demo Video](http://youtube.link.goes.here)
+Video Demonstration of how my software works: [Software Demo Video](https://youtu.be/TVtzkOTjZg4)
 
 # Development Environment
 
