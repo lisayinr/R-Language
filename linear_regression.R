@@ -4,7 +4,7 @@ library(ggplot2)
 data <- read.csv("sales.csv")
 
 print("Here is a preview of the data: ")
-print(head(data)) #shows top few rows
+print(head(data)) #previews data
 
 
 
@@ -28,7 +28,7 @@ print(campaign_labels)
 
 # Logical datatype: checks which values are greater than or equal to 40
 high_sales <- data$Sales >= 40
-cat("\nLogical Values (Sales => 40): TRUE means sales met or exceeded 40\n")
+cat("\nHigh Sales (Sales => 40): TRUE means sales met or exceeded 40\n")
 for (i in 1:length(high_sales)) {
   cat(paste(campaign_labels[i], ":", high_sales[i], "\n"))
 }

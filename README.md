@@ -1,20 +1,19 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the R language.}
-
-{Describe your purpose for writing this software.}
-
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+To grow as a software engineer, I wanted to expand my understanding of statistical programming by learning the R language. This software reads a CSV file that contains data of advertising spending and the outcome in sales. The program then builds a linear regression model and creates a graph showing the relationship between advertising and sales using ggplot2.
+
+The purpose for writing this software is to have a solid foundation of using R's syntax and data structures by applying it to a real world situation. It demonstrates how the R language works with multiple datatypes (numeric, integer, character, logical, and list), dataframes, and loops.
+
+Video Demonstration of how my software works: [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Git / Github
+* Ggplot2 library
+* R version 4.5.0
 
 # Useful Websites
 
@@ -30,8 +29,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add user input to 
+- Allow user to modify what is considered "high sales"
+- Make graph interactive
