@@ -45,7 +45,7 @@ cat("\nSummary:\n")
 print(summary_list)
 
 
-# Loop 1: prints message for eaach campaign based on sales
+# Loop 1: prints message for each campaign based on sales
 cat("\nSales Performance by Campaign:\n")
 for (i in 1:nrow(data)) {
   message <- paste(campaign_labels[i], "had sales of", data$Sales[i], ".")
